@@ -7,7 +7,7 @@ root = Tk()
 canvas = Canvas(root, width = WIDTH, height= HEIGHT)
 root.title('Bouncing Ball')
 canvas.pack()
-WIDTH = 500
+WIDTH = 501
 HEIGHT = 400
 
 
